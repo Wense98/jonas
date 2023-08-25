@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.code{
+    background: aqua;
+    text-align: center;
+    height: 90px;
+}
+.container{
+    display: flex;
+}
+.nodes{
+background-color: #fff;
+width: 500px;
+text-align: center;
+height: 500px;
+}
+.container2
+{
+    background-color: #ded4d4;
+    width: 1000px;
+    height: 500px;
+}
+.footer{
+    background: aqua;
+    text-align: center;
+    height: 50px;
+}
